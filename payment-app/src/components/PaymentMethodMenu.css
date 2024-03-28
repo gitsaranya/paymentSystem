@@ -1,0 +1,33 @@
+/* PaymentMethodMenu.css */
+
+.payment-methods-container {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.payment-methods-list {
+	list-style-type: none;
+	display: flex;
+	padding: 0;
+	flex-wrap: wrap;
+}
+
+.payment-methods-list li {
+	margin-right: 15px;
+	border: solid 1px black;
+	cursor: pointer;
+}
+
+.payment-method-item {
+	display: flex;
+	padding-right: 5px;
+	align-items: center;
+	justify-content: center;
+}
+
+.payment-method-logo {
+	width: 25px;
+	height: auto;
+	margin: 5px;
+}
