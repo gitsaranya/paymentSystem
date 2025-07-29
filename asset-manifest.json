@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paymentSystem/static/css/main.ea9650ad.css",
+    "main.js": "/paymentSystem/static/js/main.66d45c2c.js",
+    "static/js/453.4bb14132.chunk.js": "/paymentSystem/static/js/453.4bb14132.chunk.js",
+    "index.html": "/paymentSystem/index.html",
+    "main.ea9650ad.css.map": "/paymentSystem/static/css/main.ea9650ad.css.map",
+    "main.66d45c2c.js.map": "/paymentSystem/static/js/main.66d45c2c.js.map",
+    "453.4bb14132.chunk.js.map": "/paymentSystem/static/js/453.4bb14132.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea9650ad.css",
+    "static/js/main.66d45c2c.js"
+  ]
+}
