@@ -1,5 +1,6 @@
 {
   "name": "payment-app",
+  "homepage": "https://gitsaranya.github.io/paymentSystem",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
